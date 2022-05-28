@@ -1,0 +1,21 @@
+{
+  "name": "my-vue-loader",
+  "version": "1.0.0",
+  "description": "简单实现 vue-loader，从而实现简单的v-if/v-show",
+  "main": "index.js",
+  "scripts": {
+    "dev": "webpack-dev-server",
+    "build": "webpack"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "css-loader": "5.2.7",
+    "html-webpack-plugin": "4.5.0",
+    "style-loader": "2.0.0",
+    "webpack": "4.46.0",
+    "webpack-cli": "3.3.12",
+    "webpack-dev-server": "3.11.3"
+  }
+}
